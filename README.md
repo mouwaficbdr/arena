@@ -1,5 +1,6 @@
 # arena
-Arena is a fire fight engine in the rpg style. The main purpose behind this project is learning C++ .
+
+Arena is a CLI fight engine in the RPG style (text based). The main purpose behind this project is learning C++ .
 
 ## Overview
 
