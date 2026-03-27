@@ -2,6 +2,8 @@
 
 Arena is a CLI fight engine in the RPG style (text based). The main purpose behind this project is learning C++ .
 
+![arena image](assets/arena.png)
+
 ## Overview
 
 - The player should be able to create a hero (Warrior, Mage, Archer)
@@ -11,4 +13,4 @@ Arena is a CLI fight engine in the RPG style (text based). The main purpose behi
 - A mini CLI menu should be orchestrating all those things
 
 > [!NOTE]
-> These features are in progress.
+> These features are currently in progress.
